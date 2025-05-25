@@ -1,0 +1,24 @@
+html {
+    font-size: 14px;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: rgb(12, 152, 12);
+}
+
+.headers {
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    width: fit-content;
+    border: 0.25rem solid grey;
+    box-shadow: 3px 3px 3px darkgreen;
+}
+
+.summary {
+    color: red;
+}
